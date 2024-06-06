@@ -1,4 +1,4 @@
-# APIproposal_Number Recycling API_KDDI
+# APIproposal Number Recycling API KDDI
 
 | **Field** | Description | 
 | ---- | ----- |
